@@ -102,8 +102,8 @@
         {
           "cwd": "/home/linda/PepperProjects/scripts",
           "command": "./pepper_menu.sh",
-          "name": "$(radio-tower) Not Connected",
-          "color": "#FFC107",
+          "name": "$(vm) Emulator Connected",
+          "color": "#4CAF50",
           "singleInstance": true,
           "tooltip": "Click to open Pepper Menu"
         }
